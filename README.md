@@ -2,7 +2,7 @@
 A ConvNet that can predict the cell type of the images of colon cancer nuclei. The approach is to build a simple ConvNet, perform unsupervised pre-training by training an autoencoder on the unlabelled test image data and then use the 'encoder' section (with trained weights) as a feature extractor for the first part of your ConvNet.
 
 **CONTENTS**
-* data/ folder consisting of training and testing data
+* data.zip consisting of training and testing data, including an example.csv describing the kind of output expected from the ConvNet.
 * Colon_Cancer_Nuclei_Identification.ipynb notebook
 
 ### Introduction
