@@ -22,4 +22,4 @@ Jupyter Notebook(via Anaconda Navigator 1.10.0) or Google Colab account
 To run the application locally, you need to run the access the **Colon_Cancer_Nuclei_Identification.ipynb** notebook file through Jupyter notebook, Select "**Kernel** " **>>** **"Restart and Run all"** from the dropdown menu.
 
 ### Note:
-This project was a part of a competition in Kaggle and had certain restrictions and guidelines were required to follow. To find out more, please visit: https://www.kaggle.com/competitions/deep-learning-for-msc-coursework-2022/
+This project was a part of a competition in Kaggle and had certain restrictions and guidelines whcich were required to be followed. To find out more, please visit: https://www.kaggle.com/competitions/deep-learning-for-msc-coursework-2022/
